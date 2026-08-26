@@ -35,11 +35,11 @@ const MODEL_MAPPING = {
   'gpt-4o': 'deepseek-ai/deepseek-v3.1',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
-  'gemini-pro': 'moonshotai/kimi-k2.5'
-  'Deepseek': 'deepseek-ai/deepseek-v4-flash-0731'
-  'nemotron': 'nvidia/nemotron-3.5-lightning-30b-a3b'
-  'Meta': 'meta/muse-glimmer-30b'
-  'minimax': 'minimaxai/minimax-m3'
+  'gemini-pro': 'moonshotai/kimi-k2.5',
+  'Deepseek': 'deepseek-ai/deepseek-v4-flash-0731',
+  'nemotron': 'nvidia/nemotron-3.5-lightning-30b-a3b',
+  'Meta': 'meta/muse-glimmer-30b',
+  'minimax': 'minimaxai/minimax-m3',
   'GLM': 'z-ai/glm-5.2'
 };
 
