@@ -42,6 +42,7 @@ const MODEL_MAPPING = {
   'Meta': 'meta/muse-glimmer-30b',
   'minimax': 'minimaxai/minimax-m3',
   'GLM': 'z-ai/glm-5.3'
+  'GLM-FLASH': 'z-ai/glm-5.3-flash'
 };
 
 // Root endpoint
