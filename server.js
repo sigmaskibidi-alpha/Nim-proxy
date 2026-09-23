@@ -36,7 +36,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'kimi': 'moonshotai/kimi-k3',
-  'Deepseek-flash': 'deepseek-ai/deepseek-v4-flash-0731',
+  'Deepseek-flash': 'deepseek-ai/deepseek-v4.1-flash',
   'Deepseek-pro': 'deepseek-ai/deepseek-v4-pro-0813',
   'nemotron': 'nvidia/nemotron-3.5-lightning-30b-a3b',
   'Meta': 'meta/muse-glimmer-30b',
