@@ -41,7 +41,7 @@ const MODEL_MAPPING = {
   'nemotron': 'nvidia/nemotron-3.5-lightning-30b-a3b',
   'Meta': 'meta/muse-glimmer-30b',
   'minimax': 'minimaxai/minimax-m3',
-  'GLM': 'z-ai/glm-5.3'
+  'GLM': 'z-ai/glm-5.3',
   'GLM-FLASH': 'z-ai/glm-5.3-flash'
 };
 
