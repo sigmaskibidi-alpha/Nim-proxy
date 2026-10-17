@@ -38,7 +38,7 @@ const MODEL_MAPPING = {
   'kimi': 'moonshotai/kimi-k3',
   'Deepseek-flash': 'deepseek-ai/deepseek-v4.1-flash',
   'Deepseek-pro': 'deepseek-ai/deepseek-v4-pro-0813',
-  'nemotron': 'nvidia/nemotron-3.5-lightning-30b-a3b',
+  'nemotron': 'nvidia/nemotron-3.5-super-vl-120b-a12b',
   'Meta': 'meta/muse-glimmer-30b',
   'minimax': 'minimaxai/minimax-m3',
   'GLM': 'z-ai/glm-5.3',
