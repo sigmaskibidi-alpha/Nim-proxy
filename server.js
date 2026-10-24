@@ -41,7 +41,7 @@ const MODEL_MAPPING = {
   'Deepseek-pro': 'deepseek-ai/deepseek-v4-pro-0813',
   'nemotron': 'nvidia/nemotron-3.5-super-vl-120b-a12b',
   'Meta': 'meta/muse-glimmer-30b',
-  'minimax': 'minimaxai/minimax-m3',
+  'minimax': 'minimaxai/minimax-m3.1-flash',
   'GLM': 'z-ai/glm-5.3',
   'GLM-FLASH': 'z-ai/glm-5.3-flash'
 };
