@@ -36,6 +36,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'kimi': 'moonshotai/kimi-k3',
+  'kimi-pro': 'moonshotai/kimi-k3.1-pro',
   'stepfun': 'stepfun-ai/step-5-preview',
   'nemotron-bolt': 'nvidia/nemotron-3.5-bolt-e4b',
   'mistral': 'mistralai/mistral-large-4-1t-a52b',
